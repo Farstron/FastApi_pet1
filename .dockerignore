@@ -2,3 +2,4 @@ venv
 Dockerfile
 tasks.db
 __pycache__
+.vscode
